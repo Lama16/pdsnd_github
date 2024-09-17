@@ -1,10 +1,10 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-September 14, 2024
+September 17, 2024
 
 ### Project Title
-version control project
+version control project Lama Bin muryihah
 
 ### Description
 This project focuses on learning and applying Git commands within the context of a data science project
